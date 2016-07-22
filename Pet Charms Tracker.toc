@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Pet Charms Tracker
+## Author: TheGenomeWhisperer
+## Version: 0.0.1
+## Notes: Track How Many Pet Charms Needed for All Toys/Pets/Upgrades
+
+Pet Charms Tracker.lua
