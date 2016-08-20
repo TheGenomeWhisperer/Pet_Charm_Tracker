@@ -4,4 +4,4 @@
 ## Version: 0.0.1
 ## Notes: Track How Many Pet Charms Needed for All Toys/Pets/Upgrades
 
-Pet Charms Tracker.lua
+Pet_Charms_Tracker.lua
